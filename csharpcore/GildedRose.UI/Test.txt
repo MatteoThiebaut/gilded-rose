@@ -1,0 +1,11 @@
+ GildedRose.Items.GenericItem Wand 7 8 15 
+ GildedRose.Items.GenericItem Sword 6 -2 20 
+ GildedRose.Items.GenericItem Shield 0 -2 12 
+ GildedRose.Items.AgingItem Aged Brie 5 4 5 
+ GildedRose.Items.AgingItem Aged Brie 50 4 7 
+ GildedRose.Items.LegendaryItem Sulfuras 80 5 8 
+ GildedRose.Items.EventItem Backstage Pass 11 14 14 
+ GildedRose.Items.EventItem Backstage Pass 12 9 13 
+ GildedRose.Items.EventItem Backstage Pass 13 4 8 
+ GildedRose.Items.EventItem Backstage Pass 0 -1 5 
+ GildedRose.Items.ConjuredItem Coujured 7 -1 9 
